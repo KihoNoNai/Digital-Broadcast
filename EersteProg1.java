@@ -1,9 +1,9 @@
 import java.lang.*;
 
-public Class EersteProg1
+public class EersteProg1
 {
-	public static void (String args[])
+	public static void main (String args[])
 	{	
-		System.out.println("Hello World")
+		System.out.println("Hello World");
 	}
 }
