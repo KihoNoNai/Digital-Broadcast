@@ -1,0 +1,17 @@
+Opdracht: Zet onderstaande for-lus om naar een while lus:
+
+for(i = 55; i > 34; i--)
+{	
+	System.out.println(i);
+}
+
+
+
+i = 55;
+ 
+while( i > 34 )
+{
+	System.out.println(i);
+	i--;
+}
+	
