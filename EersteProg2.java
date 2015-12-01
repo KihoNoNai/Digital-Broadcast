@@ -1,13 +1,13 @@
 import java.lang.*;
 
 /**
-* De klasse EersteProg is een Java applicatie
+* De klasse EersteProg2 is een Java applicatie
 *
 * @author Dorien Vanermen
 * @version 1.5
 */
 
-public class EersteProg
+public class EersteProg2
 {
 	public static void main( String args[])
 	{
