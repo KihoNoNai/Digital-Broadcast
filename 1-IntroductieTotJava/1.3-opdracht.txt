@@ -1,0 +1,5 @@
+Oefening: Download een recente JDK van java.sun.com, en compileer en run hiermee het bovenstaande "EersteProg.Java"-programma.
+
+javac EersteProg.java
+java EersteProg
+
