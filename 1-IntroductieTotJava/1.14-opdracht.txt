@@ -1,0 +1,9 @@
+Opdracht: 
+Voer onderstaande "berekening" uit in een Java programma. Verklaar het resultaat (denk aan 2's complement notatie.)
+
+System.out.println(~10);
+
+
+Verklaar het resultaat
+
+het resultaat is 11, dit komt doordat het programma 10 niet kan omzetten naar -10 en er in de plaats eentje bijtelt.
